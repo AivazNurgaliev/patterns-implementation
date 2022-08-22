@@ -1,4 +1,4 @@
-package AbstractFactory.interfaces;
+package creational.AbstractFactory.interfaces;
 
 public interface Shirt {
 

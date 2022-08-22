@@ -1,6 +1,6 @@
-package AbstractFactory.sneakersImpl;
+package creational.AbstractFactory.sneakersImpl;
 
-import AbstractFactory.interfaces.Sneakers;
+import creational.AbstractFactory.interfaces.Sneakers;
 
 public class SportSneakers implements Sneakers {
 

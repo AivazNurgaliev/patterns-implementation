@@ -1,8 +1,8 @@
-package AbstractFactory.app;
+package creational.AbstractFactory.app;
 
-import AbstractFactory.factory.CasualWearFactory;
-import AbstractFactory.factory.SportsWearFactory;
-import AbstractFactory.factory.WearFactory;
+import creational.AbstractFactory.factory.CasualWearFactory;
+import creational.AbstractFactory.factory.SportsWearFactory;
+import creational.AbstractFactory.factory.WearFactory;
 
 import java.util.NoSuchElementException;
 import java.util.Scanner;

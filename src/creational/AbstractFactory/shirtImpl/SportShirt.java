@@ -1,6 +1,6 @@
-package AbstractFactory.shirtImpl;
+package creational.AbstractFactory.shirtImpl;
 
-import AbstractFactory.interfaces.Shirt;
+import creational.AbstractFactory.interfaces.Shirt;
 
 public class SportShirt implements Shirt {
 

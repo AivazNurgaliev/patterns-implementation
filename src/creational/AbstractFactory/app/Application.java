@@ -1,8 +1,8 @@
-package AbstractFactory.app;
+package creational.AbstractFactory.app;
 
-import AbstractFactory.factory.WearFactory;
-import AbstractFactory.interfaces.Shirt;
-import AbstractFactory.interfaces.Sneakers;
+import creational.AbstractFactory.factory.WearFactory;
+import creational.AbstractFactory.interfaces.Shirt;
+import creational.AbstractFactory.interfaces.Sneakers;
 
 public class Application {
 
